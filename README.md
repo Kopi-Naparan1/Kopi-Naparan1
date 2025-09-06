@@ -1,7 +1,5 @@
-Hi I am Nyro
+## Hi, I’m Nyro 👋
 
-<img align="left" width= 50% alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Kopi-Naparan1"/>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kopi-Naparan1&show_icons=true&theme=default&cache_seconds=1800)
 
-<img  align="left" width= 50% alt="top language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kopi-Naparan1&layout=compact"/>
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kopi-Naparan1&layout=compact&theme=default&cache_seconds=1800)
