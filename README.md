@@ -45,7 +45,7 @@ Open to remote opportunities.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kopi-Naparan1&theme=default&hide_border=false)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kopi-Naparan1&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kopi-Naparan1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kopi-Naparan1&theme=tokyo-night)](https://github.com/Kopi-Naparan1)
 
 ---
 
