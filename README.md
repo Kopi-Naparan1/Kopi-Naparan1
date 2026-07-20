@@ -37,18 +37,17 @@ Open to remote opportunities.
 
 ---
 
-## 📊 GitHub Analytics
-
-| Stats | Languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Kopi-Naparan1&show_icons=true&theme=tokyonight&include_all_commits=true" height="170"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kopi-Naparan1&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=c,cpp,powershell" height="170"/> |
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kopi-Naparan1&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kopi-Naparan1&theme=tokyo-night" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Kopi-Naparan1&show_icons=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged&theme=tokyonight"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kopi-Naparan1&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5"
+  />
 </p>
 ---
 
