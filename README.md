@@ -37,16 +37,19 @@ Open to remote opportunities.
 
 ---
 
-## GitHub activity
+## 📊 GitHub Analytics
 
 | Stats | Languages |
-|---|---|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Kopi-Naparan1&show_icons=true&theme=default&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kopi-Naparan1&layout=compact&theme=default&hide=C++,C,Powershell) |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=Kopi-Naparan1&show_icons=true&theme=tokyonight&include_all_commits=true" height="170"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kopi-Naparan1&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=c,cpp,powershell" height="170"/> |
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kopi-Naparan1&theme=default&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kopi-Naparan1&theme=tokyonight" />
+</p>
 
-[![Kopi-Naparan1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kopi-Naparan1&theme=tokyo-night)](https://github.com/Kopi-Naparan1)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kopi-Naparan1&theme=tokyo-night" />
+</p>
 ---
 
 ## Contact
