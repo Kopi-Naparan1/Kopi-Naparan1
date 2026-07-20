@@ -9,3 +9,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![https://github.com/Kopi-Naparan1's GitHub Stats](https://readme-stats-github.pages.dev/api?username=https://github.com/Kopi-Naparan1&theme=light)
