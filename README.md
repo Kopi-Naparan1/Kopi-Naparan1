@@ -1,98 +1,43 @@
-# Nyro | Web Developer in Progress 🚀
+# Hi, I'm Kopi
 
-I’m a first-year IT student focused on becoming a **job-ready Web Developer within 24 months**.
+I build things end-to-end — from SSRF-safe backend architecture to the UI someone actually clicks. Currently shipping real projects weekly, not tutorials.
 
-Right now, I’m doing one thing consistently:
-**building real projects, every week, no excuses.**
-
----
-
-## 🎯 Goal
-
-* Land a Web Developer job within 2 years
-* Build a strong portfolio that proves real-world skills
-* Master JavaScript deeply enough to build full-stack apps
+**Latest:** [Vex](https://website-roaster-weld.vercel.app/) — an AI website critique tool with a hardened scoring pipeline (Gemini 2.5 Flash + deterministic fact extraction + SSRF-protected fetching). [Repo on request.]
 
 ---
 
-## 🧠 Current Stack
+## Currently building toward
 
-**Frontend**
+Job-ready web developer, full-stack, within 24 months. Weekly project cadence, JavaScript depth first, backend next.
 
-* HTML (semantic, accessible structure)
-* CSS (Flexbox, Grid, responsive design)
-* JavaScript (core fundamentals, DOM, problem-solving)
+**Stack right now:** HTML/CSS · JavaScript (DOM, async, problem-solving) · Git/GitHub
+**Next up:** Node.js + Express · PostgreSQL/MongoDB · deeper API architecture
 
-**Tools**
+## Projects
 
-* Git & GitHub (version control, commits, workflow)
+- **[Vex — Website Roaster](https://website-roaster-weld.vercel.app/)**
+  AI-scored website critique tool (Clarity, Copy, CTA, Trust, Mobile). Built with Next.js, TypeScript, Gemini 2.5 Flash, Upstash Redis. Notable: SSRF-hardened fetching (pinned-IP requests, DNS rebinding protection), deterministic fact extraction to reduce LLM hallucination, versioned Redis caching.
 
-**Learning Next**
-
-* Deeper JavaScript (async, APIs, clean architecture)
-* Backend (Node.js + Express)
-* Databases (MongoDB or PostgreSQL)
+*(next project goes here — see update note below)*
 
 ---
 
-## 🚧 What I’m Doing Right Now
+## GitHub activity
 
-* Building **real-world projects** (not tutorials)
-* Practicing **JavaScript daily**
-* Writing **clean, readable code**
-* Pushing to GitHub consistently
+| Stats | Languages |
+|---|---|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Kopi-Naparan1&show_icons=true&theme=default&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kopi-Naparan1&layout=compact&theme=default&hide=C++,C,Powershell) |
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=Kopi-Naparan1&theme=default&hide_border=false)
 
-## 🛠 Featured Projects
-
-> These are focused on solving real problems and improving specific skills.
-
-* 🔗 **(Project Name)**
-  → Problem: (What issue it solves)
-  → Built with: (Tech used)
-  → Key Learning: (What you improved)
-
-* 🔗 **(Project Name)**
-  → Problem:
-  → Built with:
-  → Key Learning:
-
-* 🔗 **(Project Name)**
-  → Problem:
-  → Built with:
-  → Key Learning:
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kopi-Naparan1&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 📊 GitHub Stats
+## Contact
 
-| Stats                                                                                                                           | Languages                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Kopi-Naparan1\&show_icons=true\&theme=default\&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kopi-Naparan1\&layout=compact\&theme=default\&hide=C++,C,Powershell) |
+[LinkedIn](https://linkedin.com/in/kopi-anan-pasco-naparan-0043b3361) · [Twitter](https://twitter.com/NyroK46729) · kopinaparan13@gmail.com
 
 ---
 
-## 🔥 Consistency
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Kopi-Naparan1\&theme=default\&hide_border=false)
-
----
-
-## 📈 Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kopi-Naparan1\&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📬 Contact
-
-* LinkedIn: (Add ASAP — recruiters check this)
-* Email: (Use a clean, professional email)
-
----
-
-## ⚡ Mindset
-
-Consistency > Motivation
-Small wins daily → Big results over time
+*Consistency compounds. Small daily reps, real projects, no shortcuts.*
