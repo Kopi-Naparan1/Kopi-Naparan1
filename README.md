@@ -39,7 +39,7 @@ Open to remote opportunities.
 
 ## 📊 GitHub Stats
 
-[<p align="center">
+[[<p align="center">
   <img
     height="180em"
     src="https://github-readme-stats.vercel.app/api?username=Kopi-Naparan1&show_icons=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged&theme=tokyonight"
@@ -49,7 +49,7 @@ Open to remote opportunities.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kopi-Naparan1&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5"
   />
 </p>](https://github-readme-stats.vercel.app/api/top-langs/?username=Kopi-Naparan1&layout=compact&langs_count=8&theme=tokyonight)
-
+](https://github-readme-stats.vercel.app/api/top-langs/?username=Kopi-Naparan1&layout=compact&langs_count=8&theme=tokyonight)
 ---
 
 ## Contact
